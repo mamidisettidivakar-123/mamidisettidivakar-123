@@ -9,6 +9,7 @@
 - 🛠️ Building projects in Sales Analysis, EDA & Dashboards
 - 📍 Based in Hyderabad, India
 - 📧 mamidisettidivakar@gmail.com
+-  💼 [LinkedIn](https://www.linkedin.com/in/mamidisetti-divakar-254a36294/)
 
 ---
 
